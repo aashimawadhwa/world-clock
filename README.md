@@ -1,3 +1,3 @@
 # world-clock
 
-A simple dymnamic clock with html , css and javascript
+A simple dymnamic clock with HTML , css and javascript
